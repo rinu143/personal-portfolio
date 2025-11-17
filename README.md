@@ -4,6 +4,8 @@ A simple personal portfolio website built with React and Vite.
 
 ## Links
 
+Deployment link : (https://personal-portfolio-rinu.netlify.app/)[https://personal-portfolio-rinu.netlify.app/]
+Git repo: (https://github.com/rinu143/personal-portfolio.git)[https://github.com/rinu143/personal-portfolio.git]
 
 
 ## Run Locally
